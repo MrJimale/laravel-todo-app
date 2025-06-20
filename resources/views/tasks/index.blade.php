@@ -3,12 +3,7 @@
 <head>
     <title>My To-Do List</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet">
-      <script>
-    // Reload the page every 5000 milliseconds (5 seconds)
-    setInterval(function() {
-      window.location.reload();
-    }, 5000);
-  </script>
+
 </head>
 <body class="p-5">
     <h1 class="mb-4">To-Do</h1>
